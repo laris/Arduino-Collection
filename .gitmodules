@@ -1,0 +1,3 @@
+[submodule "arduino-libraries/RotaryEncoder/AdaEncoder_GreyGnome"]
+	path = arduino-libraries/RotaryEncoder/AdaEncoder_GreyGnome
+	url = git://github.com/GreyGnome/AdaEncoder.git
