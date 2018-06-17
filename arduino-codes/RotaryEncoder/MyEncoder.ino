@@ -18,7 +18,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-	Questions?  Send mail to mschwage_AT_gmail.com
+	Questions?  Send mail to mschwage@gmail.com
 
 */
 
