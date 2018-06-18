@@ -121,3 +121,6 @@
 [submodule "arduino-libraries/interruption/PinChangeInt_gh_GreyGnome"]
 	path = arduino-libraries/interruption/PinChangeInt_gh_GreyGnome
 	url = https://github.com/GreyGnome/PinChangeInt
+[submodule "arduino-libraries/button_debounce/Tigger_bouncy_switches_gh_GreyGnome"]
+	path = arduino-libraries/button_debounce/Tigger_bouncy_switches_gh_GreyGnome
+	url = https://github.com/GreyGnome/Tigger
