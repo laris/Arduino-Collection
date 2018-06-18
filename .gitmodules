@@ -1,3 +1,36 @@
 [submodule "arduino-libraries/RotaryEncoder/AdaEncoder_GreyGnome"]
 	path = arduino-libraries/RotaryEncoder/AdaEncoder_GreyGnome
 	url = git://github.com/GreyGnome/AdaEncoder.git
+[submodule "arduino-libraries/RBD/RBD_Button"]
+	path = arduino-libraries/RBD/RBD_Button
+	url = https://github.com/alextaujenis/RBD_Button
+[submodule "arduino-libraries/RBD/RBD_Capacitance"]
+	path = arduino-libraries/RBD/RBD_Capacitance
+	url = https://github.com/alextaujenis/RBD_Capacitance
+[submodule "arduino-libraries/RBD/RBD_HumanSensor"]
+	path = arduino-libraries/RBD/RBD_HumanSensor
+	url = https://github.com/alextaujenis/RBD_HumanSensor
+[submodule "arduino-libraries/RBD/RBD_Light"]
+	path = arduino-libraries/RBD/RBD_Light
+	url = https://github.com/alextaujenis/RBD_Light
+[submodule "arduino-libraries/RBD/RBD_LightSensor"]
+	path = arduino-libraries/RBD/RBD_LightSensor
+	url = https://github.com/alextaujenis/RBD_LightSensor
+[submodule "arduino-libraries/RBD/RBD_Motor"]
+	path = arduino-libraries/RBD/RBD_Motor
+	url = https://github.com/alextaujenis/RBD_Motor
+[submodule "arduino-libraries/RBD/RBD_SerialManager"]
+	path = arduino-libraries/RBD/RBD_SerialManager
+	url = https://github.com/alextaujenis/RBD_SerialManager
+[submodule "arduino-libraries/RBD/RBD_Servo"]
+	path = arduino-libraries/RBD/RBD_Servo
+	url = https://github.com/alextaujenis/RBD_Servo
+[submodule "arduino-libraries/RBD/RBD_Threshold"]
+	path = arduino-libraries/RBD/RBD_Threshold
+	url = https://github.com/alextaujenis/RBD_Threshold
+[submodule "arduino-libraries/RBD/RBD_Timer"]
+	path = arduino-libraries/RBD/RBD_Timer
+	url = https://github.com/alextaujenis/RBD_Timer
+[submodule "arduino-libraries/RBD/RBD_WaterSensor"]
+	path = arduino-libraries/RBD/RBD_WaterSensor
+	url = https://github.com/alextaujenis/RBD_WaterSensor
