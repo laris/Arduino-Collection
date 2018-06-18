@@ -133,3 +133,6 @@
 [submodule "arduino-libraries/Timer/TimerOneThree_gh_PaulStoffregen"]
 	path = arduino-libraries/Timer/TimerOneThree_gh_PaulStoffregen
 	url = https://github.com/PaulStoffregen/TimerOne
+[submodule "arduino-libraries/GSM/TinyGSM_gh_vshymanskyy"]
+	path = arduino-libraries/GSM/TinyGSM_gh_vshymanskyy
+	url = https://github.com/vshymanskyy/TinyGSM
