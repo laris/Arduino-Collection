@@ -40,3 +40,9 @@
 [submodule "arduino-libraries/RotaryEncoder/arduino-rotary-knob_gh_micheljansen"]
 	path = arduino-libraries/RotaryEncoder/arduino-rotary-knob_gh_micheljansen
 	url = https://github.com/micheljansen/arduino-rotary-knob
+[submodule "arduino-libraries/RotaryEncoder/QuadEncoder_gh_medecau"]
+	path = arduino-libraries/RotaryEncoder/QuadEncoder_gh_medecau
+	url = https://github.com/medecau/QuadEncoder
+[submodule "arduino-libraries/RotaryEncoder/RotaryEncoder_gh_mathertel"]
+	path = arduino-libraries/RotaryEncoder/RotaryEncoder_gh_mathertel
+	url = https://github.com/mathertel/RotaryEncoder
