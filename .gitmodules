@@ -46,3 +46,6 @@
 [submodule "arduino-libraries/RotaryEncoder/RotaryEncoder_gh_mathertel"]
 	path = arduino-libraries/RotaryEncoder/RotaryEncoder_gh_mathertel
 	url = https://github.com/mathertel/RotaryEncoder
+[submodule "arduino-libraries/RotaryEncoder/encoder_gh_0xPIT"]
+	path = arduino-libraries/RotaryEncoder/encoder_gh_0xPIT
+	url = https://github.com/0xPIT/encoder
