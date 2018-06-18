@@ -130,3 +130,6 @@
 [submodule "arduino-libraries/Timer/timerOne_gh_PaulStoffregen"]
 	path = arduino-libraries/Timer/timerOne_gh_PaulStoffregen
 	url = https://github.com/PaulStoffregen/TimerOne
+[submodule "arduino-libraries/Timer/TimerOneThree_gh_PaulStoffregen"]
+	path = arduino-libraries/Timer/TimerOneThree_gh_PaulStoffregen
+	url = https://github.com/PaulStoffregen/TimerOne
