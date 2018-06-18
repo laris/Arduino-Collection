@@ -34,3 +34,6 @@
 [submodule "arduino-libraries/RBD/RBD_WaterSensor"]
 	path = arduino-libraries/RBD/RBD_WaterSensor
 	url = https://github.com/alextaujenis/RBD_WaterSensor
+[submodule "arduino-libraries/RBD/RBD_Relay"]
+	path = arduino-libraries/RBD/RBD_Relay
+	url = https://github.com/alextaujenis/RBD_Relay
