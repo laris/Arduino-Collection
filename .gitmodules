@@ -67,3 +67,6 @@
 [submodule "arduino-libraries/RotaryEncoder/Encoder_gh_Pitt-RAS"]
 	path = arduino-libraries/RotaryEncoder/Encoder_gh_Pitt-RAS
 	url = https://github.com/Pitt-RAS/Encoder
+[submodule "arduino-libraries/LED/jled_gh_jandelgado"]
+	path = arduino-libraries/LED/jled_gh_jandelgado
+	url = https://github.com/jandelgado/jled
