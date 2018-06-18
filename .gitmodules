@@ -37,3 +37,6 @@
 [submodule "arduino-libraries/RBD/RBD_Relay"]
 	path = arduino-libraries/RBD/RBD_Relay
 	url = https://github.com/alextaujenis/RBD_Relay
+[submodule "arduino-libraries/RotaryEncoder/arduino-rotary-knob_gh_micheljansen"]
+	path = arduino-libraries/RotaryEncoder/arduino-rotary-knob_gh_micheljansen
+	url = https://github.com/micheljansen/arduino-rotary-knob
