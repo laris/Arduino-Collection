@@ -103,3 +103,6 @@
 [submodule "arduino-libraries/LED/shift7seg_gh_pseudoVella"]
 	path = arduino-libraries/LED/shift7seg_gh_pseudoVella
 	url = https://github.com/pseudoVella/shift7seg
+[submodule "arduino-libraries/BobaBlox_gh_robertgallup"]
+	path = arduino-libraries/BobaBlox_gh_robertgallup
+	url = https://github.com/robertgallup/BobaBlox
