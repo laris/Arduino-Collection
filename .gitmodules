@@ -58,3 +58,9 @@
 [submodule "arduino-libraries/RotaryEncoder/GroveEncoder_gh_dantler"]
 	path = arduino-libraries/RotaryEncoder/GroveEncoder_gh_dantler
 	url = https://github.com/dantler/GroveEncoder
+[submodule "arduino-libraries/RotaryEncoder/Encoder_gh_PaulStoffregen"]
+	path = arduino-libraries/RotaryEncoder/Encoder_gh_PaulStoffregen
+	url = https://github.com/PaulStoffregen/Encoder
+[submodule "arduino-libraries/RotaryEncoder/Encoder_gh_Pitt-RAS_patched_PaulStoffregen"]
+	path = arduino-libraries/RotaryEncoder/Encoder_gh_Pitt-RAS_patched_PaulStoffregen
+	url = https://github.com/Pitt-RAS/Encoder
