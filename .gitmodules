@@ -52,3 +52,6 @@
 [submodule "arduino-libraries/button_debounce/Button_gh_JChristensen"]
 	path = arduino-libraries/button_debounce/Button_gh_JChristensen
 	url = https://github.com/JChristensen/Button
+[submodule "arduino-libraries/RotaryEncoder/MD_REncoder_gh_MajicDesigns"]
+	path = arduino-libraries/RotaryEncoder/MD_REncoder_gh_MajicDesigns
+	url = https://github.com/MajicDesigns/MD_REncoder
