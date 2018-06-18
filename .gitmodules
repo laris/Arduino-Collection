@@ -109,3 +109,6 @@
 [submodule "arduino-libraries/bitlash_arduino_interpreter_gh_robertgallup_billroy"]
 	path = arduino-libraries/bitlash_arduino_interpreter_gh_robertgallup_billroy
 	url = https://github.com/robertgallup/bitlash
+[submodule "tools/bmp2hex_gh_robertgallup"]
+	path = tools/bmp2hex_gh_robertgallup
+	url = https://github.com/robertgallup/bmp2hex
