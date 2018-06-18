@@ -71,5 +71,17 @@
 	path = arduino-libraries/LED/jled_gh_jandelgado
 	url = https://github.com/jandelgado/jled
 [submodule "arduino-libraries/VFD/Adafruit-Graphic-VFD-Display-Library_gh_adafruit"]
-	path = arduino-libraries/VFD/Adafruit-Graphic-VFD-Display-Library_gh_adafruit
+	path = arduino-libraries/MonoGraphic/Adafruit-Graphic-VFD-Display-Library_gh_adafruit
 	url = https://github.com/adafruit/Adafruit-Graphic-VFD-Display-Library
+[submodule "arduino-libraries/MonoGraphic/u8g2_gh_olikraus"]
+	path = arduino-libraries/MonoGraphic/u8g2_gh_olikraus
+	url = https://github.com/olikraus/u8g2
+[submodule "arduino-libraries/MonoGraphic/U8g2_Arduino_gh_olikraus"]
+	path = arduino-libraries/MonoGraphic/U8g2_Arduino_gh_olikraus
+	url = https://github.com/olikraus/U8g2_Arduino
+[submodule "arduino-libraries/ColorGraphic/ucglib_gh_olikraus"]
+	path = arduino-libraries/ColorGraphic/ucglib_gh_olikraus
+	url = https://github.com/olikraus/ucglib
+[submodule "arduino-libraries/ColorGraphic/Ucglib_Arduino_gh_olikraus"]
+	path = arduino-libraries/ColorGraphic/Ucglib_Arduino_gh_olikraus
+	url = https://github.com/olikraus/Ucglib_Arduino
