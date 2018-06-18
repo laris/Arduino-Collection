@@ -1,5 +1,5 @@
 [submodule "arduino-libraries/RotaryEncoder/AdaEncoder_GreyGnome"]
-	path = arduino-libraries/RotaryEncoder/AdaEncoder_GreyGnome
+	path = arduino-libraries/RotaryEncoder/AdaEncoder_gh_GreyGnome
 	url = git://github.com/GreyGnome/AdaEncoder.git
 [submodule "arduino-libraries/RBD/RBD_Button"]
 	path = arduino-libraries/RBD/RBD_Button
