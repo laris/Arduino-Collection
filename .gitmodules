@@ -85,3 +85,9 @@
 [submodule "arduino-libraries/ColorGraphic/Ucglib_Arduino_gh_olikraus"]
 	path = arduino-libraries/ColorGraphic/Ucglib_Arduino_gh_olikraus
 	url = https://github.com/olikraus/Ucglib_Arduino
+[submodule "arduino-libraries/MonoGraphic/u8glib_gh_olikraus"]
+	path = arduino-libraries/MonoGraphic/u8glib_gh_olikraus
+	url = https://github.com/olikraus/u8glib
+[submodule "arduino-libraries/MonoGraphic/U8glib_Arduino_gh_olikraus"]
+	path = arduino-libraries/MonoGraphic/U8glib_Arduino_v1_gh_olikraus
+	url = https://github.com/olikraus/U8glib_Arduino
