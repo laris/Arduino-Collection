@@ -94,3 +94,9 @@
 [submodule "arduino-libraries/MonoGraphic/u8glib_v1_gh_olikraus"]
 	path = arduino-libraries/MonoGraphic/u8glib_v1_gh_olikraus
 	url = https://github.com/olikraus/u8glib
+[submodule "arduino-libraries/SDTFMMC/SdFat_FAT1632_gh_greiman"]
+	path = arduino-libraries/SDTFMMC/SdFat_FAT1632_gh_greiman
+	url = https://github.com/greiman/SdFat
+[submodule "arduino-libraries/SDTFMMC/SD_sdfatlib_gh_adafruit"]
+	path = arduino-libraries/SDTFMMC/SD_sdfatlib_gh_adafruit
+	url = https://github.com/adafruit/SD
