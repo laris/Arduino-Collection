@@ -124,3 +124,9 @@
 [submodule "arduino-libraries/button_debounce/Tigger_bouncy_switches_gh_GreyGnome"]
 	path = arduino-libraries/button_debounce/Tigger_bouncy_switches_gh_GreyGnome
 	url = https://github.com/GreyGnome/Tigger
+[submodule "arduino-libraries/RotaryEncoder/Launchpad-rotary-encoder_gh_sneznaovca"]
+	path = arduino-libraries/RotaryEncoder/Launchpad-rotary-encoder_gh_sneznaovca
+	url = https://github.com/sneznaovca/Launchpad-rotary-encoder
+[submodule "arduino-libraries/Timer/timerOne_gh_PaulStoffregen"]
+	path = arduino-libraries/Timer/timerOne_gh_PaulStoffregen
+	url = https://github.com/PaulStoffregen/TimerOne
