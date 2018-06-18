@@ -49,3 +49,6 @@
 [submodule "arduino-libraries/RotaryEncoder/encoder_gh_0xPIT"]
 	path = arduino-libraries/RotaryEncoder/encoder_gh_0xPIT
 	url = https://github.com/0xPIT/encoder
+[submodule "arduino-libraries/button_debounce/Button_gh_JChristensen"]
+	path = arduino-libraries/button_debounce/Button_gh_JChristensen
+	url = https://github.com/JChristensen/Button
