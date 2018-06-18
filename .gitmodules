@@ -112,3 +112,6 @@
 [submodule "tools/bmp2hex_gh_robertgallup"]
 	path = tools/bmp2hex_gh_robertgallup
 	url = https://github.com/robertgallup/bmp2hex
+[submodule "arduino-libraries/interruption/ooPinChangeInt_gh_GreyGnome"]
+	path = arduino-libraries/interruption/ooPinChangeInt_gh_GreyGnome
+	url = https://github.com/GreyGnome/ooPinChangeInt
