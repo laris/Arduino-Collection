@@ -100,3 +100,6 @@
 [submodule "arduino-libraries/SDTFMMC/SD_sdfatlib_gh_adafruit"]
 	path = arduino-libraries/SDTFMMC/SD_sdfatlib_gh_adafruit
 	url = https://github.com/adafruit/SD
+[submodule "arduino-libraries/LED/shift7seg_gh_pseudoVella"]
+	path = arduino-libraries/LED/shift7seg_gh_pseudoVella
+	url = https://github.com/pseudoVella/shift7seg
